@@ -1,3 +1,26 @@
+# Titanic-Survival-Prediction
+Internship Task @codesoft, Is  to predict Titanic passenger survival using logistic regression.
+
+## Overview
+
+This repository contains a comprehensive machine learning project for predicting passenger survival on the Titanic. We use the Titanic dataset,from kaggle, to build a predictive model. The primary objective is to determine the likelihood of a passenger surviving or not during the tragic Titanic disaster based on various passenger attributes.
+
+
+## Dataset Description
+
+The Titanic dataset is well-documented and includes the following columns:
+
+- **PassengerId**: A unique identifier for each passenger.
+- **Survived**: Target variable (0 = Not Survived, 1 = Survived).
+- **Pclass**: Passenger class (1st, 2nd, or 3rd class).
+- **Name**: Passenger's name.
+- **Sex**: Gender of the passenger.
+- **Age**: Age of the passenger.
+- **SibSp**: Number of siblings/spouses aboard the Titanic.
+- **Parch**: Number of parents/children aboard the Titanic.
+- **Ticket**: Ticket number.
+- **Cabin**: Cabin number.
+- **Embarked**: Port where the passenger boarded (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 
 <h1>Data Preprocessing
