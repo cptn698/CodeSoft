@@ -1,5 +1,5 @@
 # Titanic-Survival-Prediction
-Internship Task @codesoft, Is  to predict Titanic passenger survival using logistic regression.
+Internship Task Md Ayyan@codesoft, Is  to predict Titanic passenger survival using logistic regression.
 
 ## Overview
 
